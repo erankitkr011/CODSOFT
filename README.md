@@ -15,6 +15,7 @@ The repository is organized into levels, each containing different tasks:
 CODSOFT/
 
 ├── Level1/
+
 │ ├── Task1_LandingPage/
 │ ├── Task2_PersonalPortfolio/
 │ ├── Task3_Calculator/
