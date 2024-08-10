@@ -13,6 +13,7 @@ This repository is dedicated to the tasks I am currently working on as part of m
 The repository is organized into levels, each containing different tasks:
 
 CODSOFT/
+
 ├── Level1/
 │ ├── Task1_LandingPage/
 │ ├── Task2_PersonalPortfolio/
