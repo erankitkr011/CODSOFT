@@ -36,7 +36,7 @@ CODSOFT/
 To clone this repository:
 
 ```bash
-git clone https://github.com/your-username/CODSOFT.git
+git clone https://github.com/erankitkr011/CODSOFT.git
 
 
 
